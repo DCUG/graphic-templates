@@ -1,7 +1,7 @@
 # Graphic-templates
 Graphic communication templates for announcements of the program or speakers
 
-## DCUG speaker template
+## DCUG speaker profile template (DCUG_profile.svg)
 Editing the templates should be done in Inkscape. An open source vector editor similar to illustrator, but more gratuit.
 For the announcement of a speaker this template should be used. To adapt template to the theme of the hosting party of the meetup:
 * make a copy of the template.
